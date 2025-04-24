@@ -23,10 +23,12 @@ Under the following terms:
 For more details, visit:  
 🔗 [https://creativecommons.org/licenses/by/4.0/legalcode.pl](https://creativecommons.org/licenses/by/4.0/legalcode.pl)
 
-Modifications made:
-- Aggregated raw scores to year-level summaries
-- Cleaned and renamed administrative units
-- Built interactive Power BI report with filtering and mapping
+## 🛠️ Modifications made
+
+- Added unique ID columns to improve data structure  
+- Renamed selected variable values for consistency and clarity  
+- Removed unused columns from the original dataset  
+- Created an interactive Power BI report with filtering and mapping
 
 ## 📥 How to Access the Data
 
