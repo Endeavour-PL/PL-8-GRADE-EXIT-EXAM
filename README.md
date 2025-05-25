@@ -29,6 +29,7 @@ For more details, visit:
 - Renamed selected variable values for consistency and clarity  
 - Removed unused columns from the original dataset  
 - Created an interactive Power BI report with filtering and mapping
+- Version v02 of the report includes an additional Page 3 – a new map-based visualization by macroregion (custom classification of Polish voivodeships into 7 macroregions)
 
 ## 📥 How to Access the Data
 
